@@ -30,6 +30,6 @@ or
 2. Open/restart **Sublime Text**
 
 --
-Hey, looking for themes? Check [sublime-themes](https://github.com/adrfer/sublime-themes).
+Hey, looking for themes? Check out [sublime-themes](https://github.com/adrfer/sublime-themes).
 
 Interested in key bindings? Take a look at [sublime-keybindings](https://github.com/adrfer/sublime-keybindings).
