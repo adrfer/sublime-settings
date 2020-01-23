@@ -1,7 +1,7 @@
 # Sublime Text Setings
 Unexceptionally opinionated settings for Sublime Text.
 
-Tested against `Sublime Text 3 (3083)`.
+Tested against `Sublime Text 3 (3211)`.
 
 ## Usage
 
