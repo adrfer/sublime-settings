@@ -22,5 +22,8 @@
    "highlight_modified_tabs": true,
 
    // Makes shift+tab always unindent, instead of inserting tabs
-   "shift_tab_unindent": true
+   "shift_tab_unindent": true,
+      
+   // Removes shadow from minmap
+   "draw_shadows": false
 }
